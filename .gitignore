@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 ReportCard.Rproj
+*.csv
+*.xls
